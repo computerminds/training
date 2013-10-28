@@ -1,0 +1,21 @@
+# Drush-make-retrieved code/assets.
+libraries
+modules/contrib
+themes/contrib
+
+# A handy place to keep offline materials.
+offline
+
+# Project files, and other junk.
+*.kpf
+*.komodoproject
+.komodotools
+*.proj
+*.tmp
+.DS_Store?
+.DS_Store
+Icon?
+Thumbs.db
+.bundle
+/nbproject/*
+.idea
