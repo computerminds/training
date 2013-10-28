@@ -4,3 +4,25 @@ sites/*/settings*.php
 # Ignore paths that contain user-generated content.
 sites/*/files
 sites/*/private
+
+# Project files, and other junk
+*.kpf
+#*.komodoproject
+.komodotools
+*.sublime-project
+*.sublime-workspace
+*.proj
+*.tmp
+.DS_Store?
+Icon?
+Thumbs.db
+.bundle
+.idea
+
+# A place to keep non-versioned assets
+offline
+
+# Libraries
+libraries
+.DS_Store
+/nbproject/*
