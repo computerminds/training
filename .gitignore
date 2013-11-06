@@ -23,6 +23,5 @@ Thumbs.db
 offline
 
 # Libraries
-libraries
 .DS_Store
 /nbproject/*
